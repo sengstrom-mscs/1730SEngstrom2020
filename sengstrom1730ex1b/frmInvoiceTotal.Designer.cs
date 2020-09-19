@@ -54,10 +54,11 @@
             // txtSubtotal
             // 
             this.txtSubtotal.Location = new System.Drawing.Point(144, 35);
-            this.txtSubtotal.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtSubtotal.Margin = new System.Windows.Forms.Padding(2);
             this.txtSubtotal.Name = "txtSubtotal";
             this.txtSubtotal.Size = new System.Drawing.Size(106, 20);
             this.txtSubtotal.TabIndex = 1;
+            this.txtSubtotal.TextChanged += new System.EventHandler(this.txtSubtotal_TextChanged);
             // 
             // label2
             // 
@@ -73,7 +74,7 @@
             // txtDiscountPercent
             // 
             this.txtDiscountPercent.Location = new System.Drawing.Point(144, 58);
-            this.txtDiscountPercent.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtDiscountPercent.Margin = new System.Windows.Forms.Padding(2);
             this.txtDiscountPercent.Name = "txtDiscountPercent";
             this.txtDiscountPercent.Size = new System.Drawing.Size(106, 20);
             this.txtDiscountPercent.TabIndex = 3;
@@ -92,7 +93,7 @@
             // txtDiscountAmount
             // 
             this.txtDiscountAmount.Location = new System.Drawing.Point(144, 80);
-            this.txtDiscountAmount.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtDiscountAmount.Margin = new System.Windows.Forms.Padding(2);
             this.txtDiscountAmount.Name = "txtDiscountAmount";
             this.txtDiscountAmount.ReadOnly = true;
             this.txtDiscountAmount.Size = new System.Drawing.Size(106, 20);
@@ -113,7 +114,7 @@
             // txtTotal
             // 
             this.txtTotal.Location = new System.Drawing.Point(144, 103);
-            this.txtTotal.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtTotal.Margin = new System.Windows.Forms.Padding(2);
             this.txtTotal.Name = "txtTotal";
             this.txtTotal.ReadOnly = true;
             this.txtTotal.Size = new System.Drawing.Size(106, 20);
@@ -123,7 +124,7 @@
             // btnCalculate
             // 
             this.btnCalculate.Location = new System.Drawing.Point(99, 139);
-            this.btnCalculate.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnCalculate.Margin = new System.Windows.Forms.Padding(2);
             this.btnCalculate.Name = "btnCalculate";
             this.btnCalculate.Size = new System.Drawing.Size(70, 19);
             this.btnCalculate.TabIndex = 4;
@@ -134,7 +135,7 @@
             // btnExit
             // 
             this.btnExit.Location = new System.Drawing.Point(182, 139);
-            this.btnExit.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnExit.Margin = new System.Windows.Forms.Padding(2);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(68, 19);
             this.btnExit.TabIndex = 5;
@@ -158,7 +159,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.txtSubtotal);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "frmInvoiceTotal";
             this.Text = "sengstrom1b1: Invoice Total Form";
             this.ResumeLayout(false);

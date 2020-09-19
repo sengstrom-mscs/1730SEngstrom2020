@@ -64,6 +64,7 @@
             this.txtHotDogs.TabIndex = 1;
             this.txtHotDogs.Text = "0";
             this.txtHotDogs.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.txtHotDogs.TextChanged += new System.EventHandler(this.txtHotDogs_TextChanged);
             // 
             // label2
             // 
@@ -83,6 +84,7 @@
             this.txtHotDogsSubtotal.TabIndex = 3;
             this.txtHotDogsSubtotal.TabStop = false;
             this.txtHotDogsSubtotal.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.txtHotDogsSubtotal.TextChanged += new System.EventHandler(this.txtHotDogsSubtotal_TextChanged);
             // 
             // txtHamburgersSubtotal
             // 

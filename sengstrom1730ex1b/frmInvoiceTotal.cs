@@ -31,5 +31,10 @@ namespace sengstrom1730ex1b
         {
             this.Close();
         }
+
+        private void txtSubtotal_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

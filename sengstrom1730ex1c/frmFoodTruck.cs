@@ -58,5 +58,15 @@ namespace sengstrom1730ex1c
 
 
         }
+
+        private void txtHotDogsSubtotal_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtHotDogs_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

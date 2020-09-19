@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sengstrom1730ex1d", "sengst
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "engstrom1730ex1e", "engstrom1730ex1e\engstrom1730ex1e.csproj", "{0CDC23F5-ED16-4C35-A7C0-145BE5D3F5C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sengstrom1730ex1f", "sengstrom1730ex1f\sengstrom1730ex1f.csproj", "{133D5DEA-E2C6-4F5E-A971-E7B1119A6612}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{0CDC23F5-ED16-4C35-A7C0-145BE5D3F5C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CDC23F5-ED16-4C35-A7C0-145BE5D3F5C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CDC23F5-ED16-4C35-A7C0-145BE5D3F5C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{133D5DEA-E2C6-4F5E-A971-E7B1119A6612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{133D5DEA-E2C6-4F5E-A971-E7B1119A6612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{133D5DEA-E2C6-4F5E-A971-E7B1119A6612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{133D5DEA-E2C6-4F5E-A971-E7B1119A6612}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

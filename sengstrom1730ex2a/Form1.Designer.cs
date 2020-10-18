@@ -58,7 +58,7 @@
             this.btnCalculate.Name = "btnCalculate";
             this.btnCalculate.Size = new System.Drawing.Size(70, 19);
             this.btnCalculate.TabIndex = 14;
-            this.btnCalculate.Text = "&Calculate";
+            this.btnCalculate.Text = " ";
             this.btnCalculate.UseVisualStyleBackColor = true;
             this.btnCalculate.Click += new System.EventHandler(this.btnCalculate_Click);
             // 

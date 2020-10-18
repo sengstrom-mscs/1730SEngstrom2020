@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sengstrom1730ex2a", "sengst
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sengstrom1730ex2B", "sengstrom1730ex2B\sengstrom1730ex2B.csproj", "{324FD205-C702-4570-8339-C134938C7DD9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sengstrom1730ex2C", "sengstrom1730ex2C\sengstrom1730ex2C.csproj", "{572A244B-7EB1-44CD-9A31-0356E6AA088F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{324FD205-C702-4570-8339-C134938C7DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{324FD205-C702-4570-8339-C134938C7DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{324FD205-C702-4570-8339-C134938C7DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{572A244B-7EB1-44CD-9A31-0356E6AA088F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{572A244B-7EB1-44CD-9A31-0356E6AA088F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{572A244B-7EB1-44CD-9A31-0356E6AA088F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{572A244B-7EB1-44CD-9A31-0356E6AA088F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

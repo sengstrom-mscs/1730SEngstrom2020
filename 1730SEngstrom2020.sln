@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sengstrom1730ex2C", "sengst
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sengstrom1730ex2D", "sengstrom1730ex2D\sengstrom1730ex2D.csproj", "{E6F6837D-6FE0-4033-97ED-E0F7BFF2CB8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sengstrom1730ex2E", "sengstrom1730ex2E\sengstrom1730ex2E.csproj", "{06D5C1E4-E71F-4F98-84B3-A009B77E5AD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sengstrom17302EUnitTests", "sengstrom17302EUnitTests\sengstrom17302EUnitTests.csproj", "{E9859259-DB17-4433-97AB-28D9CBABB233}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{E6F6837D-6FE0-4033-97ED-E0F7BFF2CB8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6F6837D-6FE0-4033-97ED-E0F7BFF2CB8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6F6837D-6FE0-4033-97ED-E0F7BFF2CB8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06D5C1E4-E71F-4F98-84B3-A009B77E5AD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06D5C1E4-E71F-4F98-84B3-A009B77E5AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06D5C1E4-E71F-4F98-84B3-A009B77E5AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06D5C1E4-E71F-4F98-84B3-A009B77E5AD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9859259-DB17-4433-97AB-28D9CBABB233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9859259-DB17-4433-97AB-28D9CBABB233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9859259-DB17-4433-97AB-28D9CBABB233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9859259-DB17-4433-97AB-28D9CBABB233}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

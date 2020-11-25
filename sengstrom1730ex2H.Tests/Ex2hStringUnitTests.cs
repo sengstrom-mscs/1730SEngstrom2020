@@ -97,5 +97,5 @@ namespace sengstrom1730ex2H.Tests
         {
             Assert.AreEqual("aaa, bbb, ccc", Ex2hCalculations.StringCalc10("aaa", "bbb", "ccc"));
         }
-    }  
+    }
 }

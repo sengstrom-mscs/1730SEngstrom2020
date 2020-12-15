@@ -59,6 +59,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sengstrom1730ex3c1", "sengs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sengstrom1730ex3c1UnitTests", "sengstrom1730ex3c1UnitTests\sengstrom1730ex3c1UnitTests.csproj", "{03788D2A-FAAF-44B8-9FCA-7DB0E7AECA30}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sengstrom1730ex3d1", "sengstrom1730ex3d1\sengstrom1730ex3d1.csproj", "{47F4A6A7-4FB1-4C75-92F4-20F34EDA1062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sengstrom1730ex3d1UnitTests", "sengstrom1730ex3d1UnitTests\sengstrom1730ex3d1UnitTests.csproj", "{DB5C113C-AA83-4EFE-AB94-1D4F7F2F6D68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +181,14 @@ Global
 		{03788D2A-FAAF-44B8-9FCA-7DB0E7AECA30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03788D2A-FAAF-44B8-9FCA-7DB0E7AECA30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03788D2A-FAAF-44B8-9FCA-7DB0E7AECA30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47F4A6A7-4FB1-4C75-92F4-20F34EDA1062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F4A6A7-4FB1-4C75-92F4-20F34EDA1062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F4A6A7-4FB1-4C75-92F4-20F34EDA1062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F4A6A7-4FB1-4C75-92F4-20F34EDA1062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB5C113C-AA83-4EFE-AB94-1D4F7F2F6D68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5C113C-AA83-4EFE-AB94-1D4F7F2F6D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5C113C-AA83-4EFE-AB94-1D4F7F2F6D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5C113C-AA83-4EFE-AB94-1D4F7F2F6D68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
